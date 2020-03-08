@@ -4,4 +4,8 @@ curl -o install-falco.sh -s https://s3.amazonaws.com/download.draios.com/stable/
 password = "sdklj2skjdldj@kljD83@&#^@"
 //    * Web Identity Federation Playground (https://web-identity-federation-playground.s3.amazonaws.com/index.html).
 
+api_key: gMqNdrTbHMgmmetZxama9pwMPXGqhDaE
+api_key: gMqNdrTbHMgmmetZxtestwMPXGqhDaE
+api_key: gMqNdrTbHMgmmetZxama123456qhDaE
+api_key: gMqNdrTbHMgmmetZxexampleama9pwMP
 
