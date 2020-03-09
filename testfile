@@ -1,6 +1,6 @@
-password = "ss93kls&^#j@kljD832D7@JHJ@"
-password = "sdklj2sl2@`@kljEllR3llr3J@" # sf-whitelist-line
-curl -o install-falco.sh -s https://s3.amazonaws.com/download.draios.com/stable/install-falco && bash install-falco.sh
+password = "ss93k_+ls&^#j@kljD832D7@JHJ@"
+
+password = "sdklj2sl2@`@kljEl33dler3J@" # sf-whitelist-line curl -o install-falco.sh -s https://s3.amazonaws.com/download.draios.com/stable/install-falco && bash install-falco.sh
 //    * Web Identity Federation Playground (https://web-identity-federation-playground.s3.amazonaws.com/index.html).
 
 
