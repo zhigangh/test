@@ -1,5 +1,5 @@
-password = "sdklj2skjdldj@kljD832D7@JHJ@"
-password = "sdkljklsjdlj2skjdldj@kljD832D7@JHJ@" # sf-whitelist-line
+password = "sdklj2dkjdldj@kljD832D7@JHJ@"
+password = "sdkljkjsjdlj2skjdldj@kljD832D7@JHJ@" # sf-whitelist-line
 curl -o install-falco.sh -s https://s3.amazonaws.com/download.draios.com/stable/install-falco && bash install-falco.sh
 password = "sdklj3skjsldj@kljD83@&#^@"
 token=eyJhbGciOiJ3UzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiLmtYvor5UiLCJ1c2VyTmFtZSI6IndhbmdibyIsImV4cCI6MTU1NjE3NjYwNiwidXNlcklkIjoiMTIzNDUiLCJpYXQiOjE1NTYxNzY2MDF9.FNVh-NbFHgScsbbuwLvQL-sOqLuaAoI8jxMvudq81J8\nslkjdsl\n
@@ -9,4 +9,5 @@ api_key: 768784dabd83eb52c96a3343e2f7139baa2df842
 api_key: 768784dabe83eb62d96a2343e2f7testaa2df842
 api_key: 768784dabd93eb42c96a2343e2f7139bexample3
 api_key: 768784dabd83eb52c96a3343e2f7139ba1234564
+api_key: 768784dabd83eb52c96a3343e2f713r9ba1234565
 
