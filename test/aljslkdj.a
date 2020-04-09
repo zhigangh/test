@@ -3,4 +3,4 @@ token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiLmtYvor5UiLCJ1c2VyTmFtZSI6I
 api_key: 768784dabe83eb62d96a2343e2f7testaa2df842
 
 //    * Web Identity Federation Playground (https://web-identity-federation-playground.s3.amazonaws.com/index.html).
-:_password=c2RzZHNkczozMjMy
+/:_password=c2RzZHNkczozMjMy
