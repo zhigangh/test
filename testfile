@@ -1,5 +1,5 @@
-password = "sdklj2dkjdldj@kljD832D7@JHJ@"
-password = "sdkljkjsjdlj2skjdldj@kljD832D7@JHJ@" # sf-whitelist-line
+password = "sdklj2dkjdldj@k2@@jD832D7@JHJ@"
+password = "sdkljkjsjdlj2323kjdldj@kljD832D7@JHJ@" # sf-whitelist-line
 api_token: 0fd78b69695e6aa63f4e2ce72fca344d0162b4b3
 curl -o install-falco.sh -s https://s3.amazonaws.com/download.draios.com/stable/install-falco && bash install-falco.sh
 password = "sdklj3skjsldj@kljD83@&#^@"
