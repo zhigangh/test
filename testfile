@@ -9,3 +9,5 @@ token=eyJhbGciOiJ3UzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiLmtYvor5UiLCJ1c2VyTmFtZSI6I
 api_token: 0fd78b69523a8aa63f4e1ce71fca345d0162b4b1
 o2CQu2m3geoNbQ.atlasv1.GhRYZH98WFmGMoxzbHvwMtebvbr8uawhdWwYl8oi3jszzSyFzRGyGAC20fnpMHUyZcec
 
+pip install unity-downloader-cli --extra-index-url https://artifactory.prd.it.unity3d.com/artifactory/api/pypi/unity-pypi-local/simple
+
