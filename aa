@@ -5,3 +5,4 @@ tese
 3333
 2221
 3333
+pip install unity-downloader-cli --extra-index-url https://artifactory.prd.it.unity3d.com/artifactory/api/pypi/unity-pypi-local/simple
