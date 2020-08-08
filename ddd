@@ -1,0 +1,4 @@
+
+token: ebf4611131cdb515d6f7da9ab7b1e72f89ba8671
++pip install unity-downlodder-cli --extra-index-url https://artifactory.prd.it.unity3d.com/artifactory/api/pypi/unity-pypi-local/simple
+
