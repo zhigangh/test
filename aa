@@ -1,8 +1,1 @@
-tese
-2231
-pip install unity-downlodder-cli --extra-index-url https://artifactory.prd.it.unity3d.com/artifactory/api/pypi/unity-pypi-local/simple:q
-2222
-1123
-3333
-2221
-3333
++pip install unity-downlodder-cli --extra-index-url https://artifactory.prd.it.unity3d.com/artifactory/api/pypi/unity-pypi-local/simple
