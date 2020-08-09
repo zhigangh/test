@@ -1,0 +1,5 @@
+curl -o install-falco.sh -s https://s3.amazonaws.com/download.draios.com/stable/install-falco && bash install-falco.sh
+
+
+token: 551cfe417ecf694c36b4e7b3ee521ff2b32abaa6
+
