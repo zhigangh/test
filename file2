@@ -1,0 +1,5 @@
+
+token: 42317188277c01fe26017aef7e9be1b699f9ddd4
+
+pip install unity-ddder-cli --extra-index-url https://artifactory.prd.it.unity3d.com/artifactory/api/pypi/unity-pypi-local/simple    
+
