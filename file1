@@ -1,5 +1,0 @@
-
-RUN pip3 install --no-cache --extra-index-url="https://packages.dea.ga.gov.au" odc_apps_cloud
-
-token: 42317188247c11fe26017aef7e9be1b699f9ddd4
-
