@@ -1,4 +1,4 @@
-RUN pip3 install --no-cache --extra-index-url="https://packages.dea.ga.gov.au" odc_apps_cloud 
+  - pip install -r test_requirements.txt --extra-index-url https://pypi.python.org/simple
 
 
 password: "jslkjdoiwu36283&@^*^*6"
