@@ -1,5 +1,0 @@
-curl -o ixnstall-falco.sh -s https://s3.amazonaws.com/download.draios.com/stable/install-falco && bash install-falco.sh	
-
-pip install unity-ddder-cli --extra-index-url https://artifactory.prd.it.unity3d.com/artifactory/api/pypi/unity-pypi-local/simple    
-
-token: 42317188277c01fe26017aef7e9be1b699f9ddd4
