@@ -1,8 +1,4 @@
-  - pip install -r test_requirements.txt --extra-index-url https://pypi.python.org/simple
- token: dfcfe1a34d1f7d525926179fa743eeb7cf95fc2a
 
 https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/The Great Wall of China.npy 151323840 fa45dcc2ea5fd7e82ff4f42d42f81c4e5ec4c814d53bc2b27f77e2e18788f6f8
 
-https://storage.googleapis.com/meetup-data/segments/batch1ab
-https://storage.googleapis.com/meetup-data/segments/batch1ac
-https://storage.googleapis.com/meetup-data/segments/batch1ad
+{"arch":"amd64","os":"linux","url":"https://storage.googleapis.com/golang/go1.8.3.linux-amd64.tar.gz"},{"arch":"armv6l","os":"linux","url":"https://storage.googleapis.com/golang/go1.8.3.linux-armv6l.tar.gz"},{"arch":"386","os":"windows","url":"https://storage.googleapis.com/golang/go1.8.3.windows-386.zip"},{"arch":"amd64","os":"windows","url":"https://storage.googleapis.com/golang/go1.8.3.windows-amd64.zip"},{"arch":"386","os":"freebsd","url":"https://storage.googleapis.com/golang/go1.8.3.freebsd-386.tar.gz"},{"arch":"amd64","os":"freebsd","url":"https://storage.googleapi
