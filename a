@@ -1,3 +1,5 @@
   - pip install -r test_requirements.txt --extra-index-url https://pypi.python.org/simple
  token: dfcfe1a34d1f7d525926179fa743eeb7cf95fc2a
 
+https://storage.googleapis.com/quickdraw_dataset/full/numpy_bitmap/The Great Wall of China.npy 151323840 fa45dcc2ea5fd7e82ff4f42d42f81c4e5ec4c814d53bc2b27f77e2e18788f6f8
+
