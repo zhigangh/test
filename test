@@ -2,3 +2,6 @@ curl \
     --header "X-Vault-Token: s.tCfFCu1NKbIcZ8CsWRNKaDuq" \
     --request LIST \
     http://127.0.0.1:8200/v1/auth/token/accessors
+
+
+    --header "Vault-Token: s.tCfFCu2NKbIcZ8CsWRNKaDuq" \
