@@ -3,3 +3,5 @@
 <script>alert(0)</script>
 </body>
 </html>
+RUN wget http://storage.googleapis.com/kubernetes-helm/helm-${HELM_VERSION}-linux-amd64.tar.gz && tar -xvf helm-${HELM_VERSION}-linux-amd64.tar.gz && mv linux-amd64/helm /usr/local/bin && chmod a+rx /usr/local/bin/helm && rm -rf helm-${HELM_VERSION}-linux-amd64.tar.gz linux-amd64
+
