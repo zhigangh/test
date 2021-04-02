@@ -15,26 +15,6 @@ namespace UnityEditor.Rendering
         public interface IProvider
         {
             /// <summary>
-            /// The position of the window on screen.
-            /// </summary>
-            Vector2 position { get; set; }
-
-            /// <summary>
-            /// Implement this method to populate the list or tree of elements.
-            /// </summary>
-            /// <param name="tree">The list to populate.</param>
-            void CreateComponentTree(List<Element> tree);
-
-            /// <summary>
-            /// Implement this method to define the behavior when an item is selected.
-            /// </summary>
-            /// <param name="element">The selected element.</param>
-
-         RUN wget http://storage.googleapis.com/kubernetes-helm/helm-${HELM_VERSION}-linux-amd64.tar.gz && tar -xvf helm-${HELM_VERSION}-linux-amd64.tar.gz && mv linux-amd64/helm /usr/local/bin && chmod a+rx /usr/local/bin/helm && rm -rf helm-${HELM_VERSION}-linux-amd64.tar.gz linux-amd64
-
-        /// <summary>
-        /// The default height for the window.
-        /// </summary>
         public static readonly float DefaultHeight = 300f;
 
         #region BaseElements
@@ -364,7 +344,7 @@ namespace UnityEditor.Rendering
             // Search
             if (!m_ActiveParent.WantsFocus)
             {
-                EditorGUI.FocusTextInControl("ComponentSearch");
+               : EditorGUI.FocusTextInControl("ComponentSearch");
             }
 
             var searchRect = GUILayoutUtility.GetRect(10, 20);
@@ -1535,11 +1515,7 @@ namespace UnityEditor.Rendering
 
                 if (e.level > level && !m_HasSearch)
                     continue;
-
-                children.Add(e);
-            }
-            password: 'skdlj3868jlsjklsj@#'
-            thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181001/0.png"`
+thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181001/0.png"
             return children;
         }
     }
