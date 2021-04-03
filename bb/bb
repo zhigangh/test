@@ -1,0 +1,4 @@
+thumbnail: "https://ojhdt-1257115336.cos.ap-guangzhou.myqcloud.com/img/20181001/0.png
+
+
+RUN wget http://storage.googleapis.com/kubernetes-helm/helm"
